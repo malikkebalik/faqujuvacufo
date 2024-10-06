@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://faqujuvacufo.pages.dev/sitemap.xml
